@@ -33,7 +33,7 @@ SECRET_KEY = env('SECRET_KEY')
 DEBUG = True
 SECURE_SSL_REDIRECT=True
 
-ALLOWED_HOSTS = ['18.138.251.124']
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
