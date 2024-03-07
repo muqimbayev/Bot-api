@@ -99,7 +99,7 @@ def point_get(request, telegram_id):
 
 @api_view(['GET'])
 def top_users(request):
-    top_users_data = Users.objects.all().order_by('-point')[:5]
+    top_users_data = Users.objects.all().order_by('-point')[:10]
     user_data = []
 
     for user in top_users_data:

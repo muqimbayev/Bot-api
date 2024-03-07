@@ -11,3 +11,4 @@ environs
  gunicorn
  supervisor
  whitenoise
+ boto3
