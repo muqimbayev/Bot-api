@@ -1,0 +1,13 @@
+django
+pillow
+djangorestframework
+setuptools
+djangorestframework-simplejwt
+drf-yasg
+requests
+dj-database-url
+environs
+ psycopg2-binary
+ gunicorn
+ supervisor
+ whitenoise
