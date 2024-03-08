@@ -1,5 +1,5 @@
 # Bot API
-API [link](http://18.138.251.124:8000/)
+API [link](http://18.141.12.63:8000/)
 
 ## Tavsif
 Bu Telegram bot API dasturi mantiqiy savollar botini yaratish va uni boshqarish imkoniyatlarini  taqdim etadi. Ushbu dastur orqali, foydalanuvchilar haqida ma’lumotlarini ko‘rib borish, ma’lumotlar olish va ularga xizmat ko‘rsatish mumkin.
